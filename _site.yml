@@ -1,6 +1,8 @@
-name: "Murderdata"
+name: "foo"
 navbar:
-  title: "Murderdataanalysis"
+  title: "My Foo Project"
   left:
     - text: "Home"
       href: index.html
+# https://bookdown.org/
+#yihui/rmarkdown/rmarkdown-site.html
