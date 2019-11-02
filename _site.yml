@@ -1,0 +1,8 @@
+name: "Murderdata"
+navbar:
+  title: "Murderdataanalysis"
+  left:
+    - text: "Home"
+      href: index.html
+# https://bookdown.org/
+#yihui/rmarkdown/rmarkdown-site.html
